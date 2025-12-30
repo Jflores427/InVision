@@ -96,6 +96,12 @@ The system solves common AR challenges like **Gaze-Prioritized Selection** (Cent
 
 ---
 
+## Showcase Demo
+
+https://github.com/user-attachments/assets/8846562f-fa6a-4590-95bd-c99628a7967d
+
+---
+
 ## Architecture
 
 The project follows a modular architecture managed by a central `ARAutomation` controller:
