@@ -1,6 +1,6 @@
 # InVision: Multimodal AR Assistant
 
-> A hybrid Augmented Reality application combining on-device computer vision (YOLOv8) with cloud-based Visual Language Models (Gemini 1.5).
+> A hybrid Augmented Reality application combining on-device computer vision (YOLOv8) with cloud-based Visual Language Models (Gemini 2.5 Flash).
 
 ![Unity](https://img.shields.io/badge/Unity-6000.0-black?style=flat&logo=unity)
 ![ARCore](https://img.shields.io/badge/Platform-Android%20ARCore-green)
